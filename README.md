@@ -1,20 +1,10 @@
 ### Part 2 of workshop
-
-just doing some changes
-=======
-
-
-Changing line number 2!
-
-Changing second line!
-
-
+How much wood can a woodchuck chuck? wowza 
 Josef and I are editing this
+
 
 My new branch to try
 
-:) 
+Hiii 
 
-How much wood can a woodchuck chuck?
-
-
+muskox 4ever
